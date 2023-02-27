@@ -8,3 +8,5 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning Docker.
 
 [![Harshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshil-padasala&count_private=true&show_icons=true&theme=radical)](https://github.com/harshil-padasala/github-readme-stats)
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
