@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshil-padasala" alt="harshil-padasala" /></a> </p>
 
-<p align="left"> <a href="https://linkedin.com/in/harshil-padasala-561a73208" target="blank"><img src="https://img.shields.io/twitter/follow/harshil37747891?logo=twitter&style=for-the-badge" alt="harshil37747891" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/harshil-padasala-561a73208" target="blank"><img src="https://img.shields.io/linkedin/follow/harshil-padasala?logo=linkedin&style=for-the-badge" alt="harshil-padasala" /></a> </p>
 
 - 🔭 I’m currently working on **Stock Strategy - Django Project**
 
