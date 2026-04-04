@@ -1,29 +1,203 @@
-<h1 align="center">Hi 👋, I'm Harshil Padasala</h1>
-<h3 align="center">A passionate Java Developer and DevOps Enginner.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshil-padasala&label=Profile%20views&color=0e75b6&style=flat" alt="harshil-padasala" /> </p>
+```
+██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗██╗██╗
+██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║██║██║
+███████║███████║██████╔╝███████╗███████║██║██║
+██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║██║██║
+██║  ██║██║  ██║██║  ██║███████║██║  ██║██║███████╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚══════╝
+```
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshil-padasala" alt="harshil-padasala" /></a> </p>
--->
-<p align="left"> <a href="https://twitter.com/harshil37747891" target="blank"><img src="https://img.shields.io/twitter/follow/harshil37747891?logo=twitter&style=for-the-badge" alt="harshil37747891" /></a> </p>
+### `< Java Developer />` · `{ Backend Engineer }` · `[DevSecOps]`
 
-- 🌱 I’m currently learning **Docker, Kubernetes.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Designing+High-Concurrency+Systems;Building+Scalable+Backend+Services;94%25+Performance+Boost+%E2%9A%A1;75%25+Faster+CI%2FCD+Pipelines+%F0%9F%9A%80;Java+21+%7C+Spring+Boot+%7C+Cloud+Native" alt="Typing SVG" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshil-padasala-561a73208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshil-padasala-561a73208" height="30" width="40" /></a>
-<a href="https://instagram.com/harshil_padsala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshil_padsala" height="30" width="40" /></a>
-<a href="https://twitter.com/harshil37747891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshil37747891" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshil_padasala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshil_padasala" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/harshilpahzl2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshilpahzl2" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> </p>
+[![Gmail](https://img.shields.io/badge/harshilpadsala999%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harshilpadsala999@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshil-padasala)
+[![Location](https://img.shields.io/badge/📍_Surat,_India-FF6B35?style=flat-square)](https://maps.google.com/?q=Surat,India)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshil-padasala&show_icons=true&locale=en" alt="harshil-padasala" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshil-padasala&" alt="harshil-padasala" /></p>
+---
 
+<img align="right" width="300" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
+## `whoami`
+
+```java
+public class Harshil extends Developer {
+
+    String role     = "Associate Software Engineer @ Asite";
+    String location = "Surat → Ahmedabad, India";
+    String focus    = "High-Concurrency · Cloud-Native · DevSecOps";
+
+    String[] achievements = {
+        "⚡ 94% performance boost via Spring Batch + VThreads",
+        "🚀 75% faster builds through smart CI/CD optimization",
+        "🔧 10+ RESTful APIs in production",
+        "☕ Java 8 → Java 21 migration contributor"
+    };
+
+    String motto = "If it's slow, optimize it. If it's manual, automate it.";
+}
+```
+
+<br clear="right"/>
+
+---
+
+## ⚡ Tech Arsenal
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🔵 Core
+![Java](https://img.shields.io/badge/Java-FF6B35?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### ☁️ Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### 🛢️ Data & Quality
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏢 Experience
+
+<details open>
+<summary><b>🟢 Associate Software Engineer — Asite &nbsp;|&nbsp; May 2024 – Present</b></summary>
+<br/>
+
+| Impact | What I Did |
+|--------|-----------|
+| ⚡ **94% faster** | Designed high-concurrency data processing with **Spring Batch + Java Virtual Threads** & parallel execution |
+| 🚀 **75% build time cut** | Optimized Jenkins CI/CD with selective test execution & incremental UI builds |
+| 🔧 **10+ APIs shipped** | Built & maintained production RESTful APIs with Spring Boot |
+| ☕ **Java 21 migration** | Contributed to upgrading legacy codebase from Java 8 → Java 21 |
+| 🛡️ **Reliable deployments** | Authored Jenkins pipelines with automated testing & quality gates |
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎫 Ticket Management System
+> `Spring Boot` `Angular` `ElectronJS` `PostgreSQL` `JWT`
+
+Full-stack project & ticket management platform for teams.
+
+- 🔐 Role-based auth via **Spring Security + JWT**
+- 🗂️ Task assignment, project tracking & team collab
+- 🌐 Scalable REST APIs for auth, users & projects
+
+</td>
+<td width="50%" valign="top">
+
+### 🏨 Hotel Rating Microservices
+> `Spring Boot` `Spring Cloud` `Netflix Eureka` `API Gateway`
+
+Distributed microservices system with full service mesh.
+
+- 🔍 **Netflix Eureka** for dynamic service discovery
+- 🚪 **Spring Cloud Gateway** for centralized routing
+- ⚙️ **Config Server** for zero-restart config updates
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 DevSecOps CI/CD Pipeline
+> `GitHub Actions` `Docker` `ArgoCD` `SonarQube` `Trivy` `K8s`
+
+End-to-end DevSecOps pipeline with security baked in.
+
+- 🔍 Automated code quality via **SonarQube**
+- 🛡️ Vulnerability scanning via **Trivy**
+- 🎯 GitOps-based **multi-env K8s** deploys via ArgoCD
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 By The Numbers
+
+```
+Performance Improvement ████████████ 94%
+Build Time Reduction    █████████    75%
+APIs In Production      ██████       10+
+CGPA                    █████████ 9.46/10
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education & Certs
+
+<table>
+<tr>
+<td>
+
+🏛️ **B.Tech in Computer Engineering**
+Charotar University of Science & Technology *(CHARUSAT)*
+📅 Graduated May 2024 &nbsp;|&nbsp; 🏆 **CGPA: 9.46 / 10**
+
+</td>
+<td>
+
+🏅 **Google Professional Cloud Architect**
+*Google Cloud Certification*
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 💬 Philosophy
+
+*"Performance is not an afterthought — it's the architecture."*
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=harshilpadasala&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
