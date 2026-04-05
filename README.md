@@ -210,6 +210,8 @@ Charotar University of Science & Technology *(CHARUSAT)*
 📅 Graduated May 2024 &nbsp;|&nbsp; 🏆 **CGPA: 9.46 / 10**
 
 </td>
+</tr>
+<tr>
 <td>
 
 🏅 **Google Professional Cloud Architect**
