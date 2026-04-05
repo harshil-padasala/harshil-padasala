@@ -1,13 +1,15 @@
 <div align="center">
 
-```
+<p align="center">
+<pre>
 ██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗██╗██╗
 ██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║██║██║
 ███████║███████║██████╔╝███████╗███████║██║██║
 ██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║██║██║
-██║  ██║██║  ██║██║  ██║███████║██║  ██║██║███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚══════╝
-```
+     ██║  ██║██║  ██║██║  ██║███████║██║  ██║██║███████╗
+     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚══════╝
+</pre>
+</p>
 
 ### `< Java Developer />` · `{ Backend Engineer }` · `[DevSecOps]`
 
@@ -112,7 +114,25 @@ public class Harshil extends Developer {
 ## 🚀 Featured Projects
 
 <table>
+
 <tr>
+
+<td width="50%" valign="top">
+
+### 🚀 TrendyThread Blog API
+> `Spring Boot` `Spring Security` `JWT + BCrypt` `Swagger / OpenAPI`
+
+Full-stack ready blog backend built for scalable platforms.
+
+- 🔐 Secure Authentication using **Spring Security + JWT**
+- 🛡️ Role-based **Authorization & Ownership** Validation
+- ✏️ Full Blog Management (Posts, Categories, Comments)
+- 🔍 **Search, Pagination & Sorting** for optimized queries
+- 📊 **Audit Tracking** (createdAt, updatedBy, etc.)
+- 🌐 RESTful APIs with **Swagger documentation**
+
+</td>
+
 <td width="50%" valign="top">
 
 ### 🎫 Ticket Management System
@@ -125,6 +145,11 @@ Full-stack project & ticket management platform for teams.
 - 🌐 Scalable REST APIs for auth, users & projects
 
 </td>
+
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 ### 🏨 Hotel Rating Microservices
@@ -137,8 +162,7 @@ Distributed microservices system with full service mesh.
 - ⚙️ **Config Server** for zero-restart config updates
 
 </td>
-</tr>
-<tr>
+
 <td width="50%" valign="top">
 
 ### 🔐 DevSecOps CI/CD Pipeline
@@ -151,6 +175,11 @@ End-to-end DevSecOps pipeline with security baked in.
 - 🎯 GitOps-based **multi-env K8s** deploys via ArgoCD
 
 </td>
+
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 ### 📊 By The Numbers
@@ -163,7 +192,9 @@ CGPA                    █████████ 9.46/10
 ```
 
 </td>
+
 </tr>
+
 </table>
 
 ---
